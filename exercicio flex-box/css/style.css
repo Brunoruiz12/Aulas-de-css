@@ -1,0 +1,19 @@
+.flex-container > div {
+    background-color: goldenrod;
+    margin: 5px;
+ padding: 50px;
+  width: 500px;
+
+}
+
+.flex-container{
+    display: flex;
+    padding: 50px;
+    font-size: 80px;
+}
+.flex-container2{
+    background-color: goldenrod;
+    margin: 40px;
+    padding: 50px;
+    font-size: 50px;
+}
